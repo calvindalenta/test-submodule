@@ -1,0 +1,3 @@
+[submodule "rmmv-remove-random-encounter"]
+	path = rmmv-remove-random-encounter
+	url = https://github.com/calvindalenta/rmmv-remove-random-encounter.git
